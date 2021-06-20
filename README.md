@@ -1,1 +1,1 @@
-https://man.sr.ht/~adigitoleo/about-me/
+https://adigitoleo.srht.site/about-me/
