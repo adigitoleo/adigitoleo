@@ -12,11 +12,12 @@ for my repositories if available.
 - https://nim-lang.org/
 - https://nccastaff.bournemouth.ac.uk/jmacey/Lectures/SIMD/#/
 - http://0x80.pl/notesen/2023-04-30-lookup-in-strings.html
+- https://c9x.me/compile/
+- https://sr.ht/~sircmpwn/hare/
 - https://sr.ht/~duangle/scopes/
 - https://factorcode.org/
 - https://fennel-lang.org/
 - https://sr.ht/~cloutier/principia/
-- https://sr.ht/~sircmpwn/hare/
 - https://sr.ht/~rkta/microtojson/
 - https://git.sr.ht/~trhd/optargs
 - https://sr.ht/~alextee/zrythm/
