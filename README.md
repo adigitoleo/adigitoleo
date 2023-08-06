@@ -11,6 +11,7 @@ for my repositories if available.
 - https://julialang.org/
 - https://nim-lang.org/
 - https://nccastaff.bournemouth.ac.uk/jmacey/Lectures/SIMD/#/
+- http://0x80.pl/notesen/2023-04-30-lookup-in-strings.html
 - https://sr.ht/~duangle/scopes/
 - https://factorcode.org/
 - https://fennel-lang.org/
