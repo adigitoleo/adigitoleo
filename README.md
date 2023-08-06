@@ -10,8 +10,9 @@ for my repositories if available.
 - https://github.com/adigitoleo?tab=stars
 - https://julialang.org/
 - https://nim-lang.org/
-- https://factorcode.org/
+- https://nccastaff.bournemouth.ac.uk/jmacey/Lectures/SIMD/#/
 - https://sr.ht/~duangle/scopes/
+- https://factorcode.org/
 - https://fennel-lang.org/
 - https://sr.ht/~cloutier/principia/
 - https://sr.ht/~sircmpwn/hare/
