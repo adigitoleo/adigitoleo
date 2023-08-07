@@ -15,7 +15,6 @@ for my repositories if available.
 - https://c9x.me/compile/
 - https://sr.ht/~sircmpwn/hare/
 - https://sr.ht/~duangle/scopes/
-- https://factorcode.org/
 - https://fennel-lang.org/
 - https://sr.ht/~cloutier/principia/
 - https://sr.ht/~rkta/microtojson/
