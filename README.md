@@ -1,6 +1,6 @@
 ## [Leon](https://adigitoleo.srht.site/about-me/)
 
-- [SourceHut projects](https://sr.ht/projects/~adigitoleo/)
+- [**SourceHut projects**](https://sr.ht/projects/~adigitoleo/)
 - GitHub projects are here, of course (check pinned repositories below)
 
 ### Interested in
