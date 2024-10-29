@@ -1,4 +1,4 @@
-## [Leon](https://adigitoleo.srht.site/about-me/)
+## [Leon](https://adigitoleo.srht.site/about/)
 
 - [**SourceHut projects**](https://sr.ht/projects/~adigitoleo/) (some of them have mirrors here)
 - **GitHub-only projects**:
